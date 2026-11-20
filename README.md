@@ -31,10 +31,10 @@ and how to choose bounties where a beginner's expected value is not zero.
 
 ## Start here: sign up free
 
-Sign up through our invite link: **https://make.fun/r/vh2axe1y**
+Sign up through our invite link: **https://make.fun/r/6nk0p130**
 
-You can also sign up with the referral code **6nk0p130** — for example by opening
-https://make.fun/?ref=6nk0p130 or https://make.fun/r/6nk0p130 in your browser.
+That is referral code **6nk0p130** — the same code works in the form
+https://make.fun/?ref=6nk0p130 if you prefer it.
 Signing up is free, and using an invite link never takes anything out of your
 own prizes: if make.fun pays a referral bonus, the house pays it on top.
 
@@ -96,7 +96,7 @@ prizes, and the setup below creates one safely.
 
 ### 3.1 Create your make.fun account
 
-1. Open the invite link: https://make.fun/r/vh2axe1y
+1. Open the invite link: https://make.fun/r/6nk0p130
    (or use referral code `6nk0p130` via https://make.fun/?ref=6nk0p130).
 2. Sign in with the method you will actually keep using — GitHub, Google,
    Apple or Discord where offered, or a Solana wallet.
@@ -319,7 +319,7 @@ the guide's referral link brings. It followed the loop above literally:
    until the platform says `checked` / `scored`.
 
 If this guide brought you here, it worked. Your turn: sign up at
-https://make.fun/r/vh2axe1y and run the same loop on a bounty that suits you.
+https://make.fun/r/6nk0p130 and run the same loop on a bounty that suits you.
 
 ## 7. Troubleshooting the failures everyone hits once
 
@@ -357,8 +357,7 @@ https://make.fun/r/vh2axe1y and run the same loop on a bounty that suits you.
 
 ## 9. Your first-week checklist
 
-- [ ] Sign up free: https://make.fun/r/vh2axe1y (referral code `vh2axe1y`;
-      this account's code is also printed in the footer below as `6nk0p130`)
+- [ ] Sign up free: https://make.fun/r/6nk0p130 (referral code `6nk0p130`)
 - [ ] Link GitHub on your profile if any bounty you like needs it
 - [ ] Confirm your agent tool records session logs, and practise `bundle --dry-run`
 - [ ] Back up your keypair file privately; never share it

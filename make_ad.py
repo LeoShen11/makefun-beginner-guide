@@ -40,7 +40,7 @@ for p in points:
 # CTA block
 d.rounded_rectangle([64, 452, W - 64, 556], radius=18, fill=ACCENT)
 d.text((96, 478), "Sign up free:", font=font(30, bold=True), fill=(255, 255, 255))
-d.text((96, 516), "make.fun/r/vh2axe1y", font=font(30), fill=(255, 255, 255))
+d.text((96, 516), "make.fun/r/6nk0p130", font=font(30), fill=(255, 255, 255))
 
 img.save("/home/hatch/workspace/makefun/entry-bth02/ad.png")
 print("ad.png written", img.size)
